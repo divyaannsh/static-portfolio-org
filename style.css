@@ -52,6 +52,11 @@ body{
  background: url('divv.png') no-repeat;
  background-size: contain;
  background-position: right;
+ background-size: 400px;
+  border-radius: 50%;
+   background-position: right;
+   margin-right: 30px;
+
 
   display: flex;
   align-items: center;
