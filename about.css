@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@1,500&family=Poppins:ital,wght@1,200;1,400&display=swap');
+
+.div{
+    background: rgb(117,113,193);
+    background: linear-gradient(90deg, rgba(117,113,193,1) 0%, rgba(28,9,121,1) 17%, rgba(28,12,123,1) 17%, rgba(0,212,255,1) 100%);
+    font-size: larger;
+}
+.div1{
+    background: rgb(117,113,193);
+    background: linear-gradient(90deg, rgba(117,113,193,1) 0%, rgba(28,9,121,1) 17%, rgba(28,12,123,1) 56%, rgba(0,212,255,1) 100%);
+}
