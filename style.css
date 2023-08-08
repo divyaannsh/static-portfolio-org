@@ -53,9 +53,9 @@ body{
  background-size: contain;
  background-position: right;
  background-size: 400px;
-  border-radius: 50%;
+  border-radius: 190%;
    background-position: right;
-   margin-right: 30px;
+   margin-right: 10px;
 
 
   display: flex;
@@ -98,7 +98,7 @@ body{
   display: inline-flex;
   justify-content: center;
   width: 150px;
-  height: 70%;
+  height: 60%;
   background-color: #0ab5f8;
   border: 2px solid #00abf0;
   border-radius: 8px;
